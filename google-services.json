@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120962731573",
+    "project_id": "blixnews",
+    "storage_bucket": "blixnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120962731573:android:dcf9a354fd950b8c19ab7c",
+        "android_client_info": {
+          "package_name": "com.blixnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9b4DCGbAPSz3GIsaw9WJVu-zMz-EKHgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
