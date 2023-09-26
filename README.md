@@ -18,4 +18,9 @@ O projeto blixNotification é uma aplicação móvel React Native desenvolvida c
 
 ## Instalação e Execução
 
-- Clone o projeto, acesse sua pagina principal e execute npm install, após isso execute npx expo run:android para buildar a pasta android e iniciar o projeto em um emulador ou dispositivo conectado
+- Clone o projeto, acesse sua pagina principal e execute npm install, após isso execute npx expo run:android para buildar a pasta android e iniciar o projeto em um emulador ou dispositivo conectado.
+
+# BLIX WEB
+- É necessario para enviar novas notificações o acesso a um projeto web, que se conecta através de uma API como meio de comunicação entre administrador e as funcionalidades do firebase.
+
+- Para clonar a versão web basta acessar git@github.com:GustavoRReis/blixNotificationWeb.git e realizar o clone do projeto, instalar as dependencias com npm instaal e acessar o projeto com o email: admin@admin.com, com isso um modal sera habilitado possibilitando o envio de notificações
